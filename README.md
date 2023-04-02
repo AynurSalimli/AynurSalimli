@@ -3,7 +3,7 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;developer𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
-
+I am Aynur Salimli
 <br/>
 <br/>
 
